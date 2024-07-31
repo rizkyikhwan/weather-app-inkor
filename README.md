@@ -6,10 +6,10 @@
 2. Open project
 
 ### `yarn install`
-3. Type "npm install" on the terminal
+3. Type "yarn install" on the terminal
 
 ### `yarn dev`
-4. Type "npm run dev" for running the project
+4. Type "yarn dev" for running the project
 
 ### Dependencies
 NPM Version 9.8.1
